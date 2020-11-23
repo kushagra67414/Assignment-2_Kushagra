@@ -1,0 +1,28 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Assignment-2_Kushagra</groupId>
+  <artifactId>Assignment-2_Kushagra</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+
+<dependencies>
+<dependency>
+<groupId>junit</groupId>
+<artifactId>junit</artifactId>
+<version>4.12</version>
+   <scope>test</scope>
+
+</dependency>
+</dependencies>
+<properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+</properties>
+	<distributionManagement>
+	<snapshotRepository>
+	<id>Assignment-2_Kushagra</id>
+	<name>Assignment-2_Kushagra</name>
+	<url>http://localhost:8081/repository/Assignment-2_Kushagra/</url>
+	</snapshotRepository>
+	</distributionManagement>
+
+</project>
