@@ -4,6 +4,7 @@
   <artifactId>Assignment-2_Kushagra</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
+
 <dependencies>
 <dependency>
 <groupId>junit</groupId>
@@ -19,7 +20,7 @@
 </properties>
 	<distributionManagement>
 	<snapshotRepository>
-	<id>Assignment-2_Kushagra</id>
+	<id>upes</id>
 	<name>Assignment-2_Kushagra</name>
 	<url>http://localhost:8081/repository/Assignment-2_Kushagra/</url>
 	</snapshotRepository>
